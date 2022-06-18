@@ -1,0 +1,153 @@
+.p1 {
+  font-size: 20px;
+}
+
+
+.Alch {
+  font-size: 20px;
+  margin-left: 20px;
+  font-weight: bold;
+}
+
+.About {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.search-button {
+  font-size: 14px;
+  color: gray;
+  border-width: 1px;
+  border-color: gray;
+  border-style: solid;
+  border-radius: 10px;
+  padding-right: 100px;
+  padding-top: 10px;
+  padding-left: 16px;
+  padding-bottom: 10px;
+  margin-left: 415px;
+  margin-right: 380px;
+  background-color: white;
+  text-align: center;
+  cursor: text;
+}
+
+.contact {
+  text-align: right;
+}
+
+.line {
+  height:2px;
+  border-width:0;
+  color:rgb(204, 200, 200);
+  background-color:rgb(204, 200, 200);
+}
+
+hr {
+  margin-top: 1px;
+  margin-bottom: 1px; 
+  opacity: 0.2;
+  height: 1px;
+}
+
+.p2 {
+  font-size: 35px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.p2a {
+  color: blue;
+}
+
+.p3 {
+  font-size: 14px;
+  color: gray;
+  opacity: 0.7;
+  text-align: center;
+  width: 700px;
+  margin-left: 400px;
+  margin-bottom: 20px;
+}
+
+.button1 {
+  margin-left: 670px;
+  margin-right: 0;
+  background-color: white;
+  color: blue;
+  border-color: rgb(223, 221, 221);
+  border-style: solid;
+  border-radius: 8px;
+  padding-right: 16px;
+  padding-top: 10px;
+  padding-left: 16px;
+  padding-bottom: 10px;
+  cursor: pointer;
+  transition: background-color 0.15s, color 0.15s;
+}
+
+.button1:hover {
+  background-color: blue;
+  color: white;
+}
+
+.button2 {
+  background-color: white;
+  color: blue;
+  border-color: rgb(223, 221, 221);
+  border-style: solid;
+  border-radius: 8px;
+  padding-right: 16px;
+  padding-top: 10px;
+  padding-left: 16px;
+  padding-bottom: 10px;
+  cursor: pointer;
+  margin-left: 0;
+  transition: background-color 0.15s, color 0.15s;
+}
+
+.button2:hover {
+  background-color: blue;
+  color: white;
+}
+
+.container{
+  display: flex;
+  justify-content: space-between; 
+}
+table,td,th{
+  border: 1px solid rgb(190, 133, 133);
+  padding: 8px 8px;
+  text-align: left;
+  border-collapse: collapse;
+}
+#box-1{
+  margin-left: 180px;
+}
+#box-2{
+  flex:1; 
+  margin: auto 10%;  
+}
+#box-3{
+  margin-right: 180px;
+}
+img{
+  height: 350px;
+  width: 350px;
+}
+iframe{
+  height: 250px;
+}
+a{
+  display: inline-block;
+  color:blue;
+}
+.p{
+  display:inline-block;
+}
+#facebook{
+  margin-left: 650px;
+}
+td{
+  font-size: x-small;
+}
